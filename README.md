@@ -1,6 +1,8 @@
 # UFC-Fighter-Stat
 UFC-Fight historical data from 1993 to 2021
 
+Creating a website that lets you grab data on fighters and make predictions
+
 Historical Dataset from Rajeev Warrier on Kaggle.com: 
 
 https://www.kaggle.com/rajeevw/ufcdata
